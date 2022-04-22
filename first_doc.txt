@@ -1,1 +1,2 @@
+New line
 First document in repository
